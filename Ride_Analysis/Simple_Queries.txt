@@ -1,0 +1,30 @@
+1.BASIC
+1.	Count total rides.
+2.	List distinct service types.
+3.	Calculate average distance per ride.
+4.	Calculate total revenue.
+5.	Count rides by payment method.
+6.	Retrieve completed rides.
+7.	Find longest ride by duration.
+8.	Find highest fare ride.
+9.	Count rides per date.
+10.	Display rides where distance > 30 km.
+
+
+2.INTERMEDIATE
+1.	Revenue by service type.
+2.	Average fare per km by service.
+3.	Rides grouped by hour of day.
+4.	Count rides per route.
+5.	Rank services by revenue.
+6.	Payment method usage per service.
+7.	Identify peak demand hours.
+8.	Calculate average ride duration by service.
+9.	Detect rides with high misc charges.
+10.	Create a view for completed rides.
+3.ADVANCED
+1.	Create CTE for route profitability.
+2.	Window function to rank routes by revenue.
+3.	Revenue trend analysis.
+4.	Identify high-value customers (proxy by routes).
+5.	Materialized view for performance reporting.
